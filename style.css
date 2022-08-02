@@ -1,0 +1,16 @@
+body{
+    background-color:#F3F3F3;
+}
+.row{
+    color: #1c44f7;
+    font-weight: 500;
+    
+}
+
+.container h1{
+    text-align: center;
+}
+
+.row .tabela{
+    background-color: #FFFFFF;
+}
